@@ -4,7 +4,9 @@
   "description": "Deep merge objects width diferent atributtes",
   "main": "index.js",
   "scripts": {
-    "test": "node test ./test/index.js"
+    "test": "jest",
+    "test:watch": "npm test -- --watch",
+    "release": "np"
   },
   "repository": {
     "type": "git",
@@ -20,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/jesusgm/deepMerge/issues"
   },
-  "homepage": "https://github.com/jesusgm/deepMerge#readme"
+  "homepage": "https://github.com/jesusgm/deepMerge#readme",
+  "devDependencies": {
+    "jest": "^26.0.1",
+    "np": "^6.2.3"
+  }
 }
