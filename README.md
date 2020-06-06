@@ -1,4 +1,4 @@
-# deepMerge
+# deepMerge [![Build Status](https://travis-ci.org/jesusgm/deepMerge.svg?branch=master)](https://travis-ci.org/jesusgm/deepMerge)
 
 Mixes two data objects in depth
 
