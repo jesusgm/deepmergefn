@@ -1,0 +1,24 @@
+{
+  "name": "deepmergefn",
+  "version": "0.1.0",
+  "description": "Deep merge objects width diferent atributtes",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test ./test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesusgm/deepMerge.git"
+  },
+  "keywords": [
+    "merge",
+    "deep",
+    "objects"
+  ],
+  "author": "Jesús Gándara Martínez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jesusgm/deepMerge/issues"
+  },
+  "homepage": "https://github.com/jesusgm/deepMerge#readme"
+}
