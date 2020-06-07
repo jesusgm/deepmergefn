@@ -47,7 +47,11 @@ Returns
   "lastname": "Doe",
   "list": [
     {
+      "foo": 2,
       "foobar": "lastaaa"
+    },
+    {
+      "var": "aaa"
     }
   ],
   "age": 30
