@@ -1,4 +1,12 @@
-# deepMerge [![Build Status](https://travis-ci.org/jesusgm/deepmergefn.svg?branch=master)](https://travis-ci.org/jesusgm/deepmergefn)
+# deepMerge
+
+<!-- [START badges] -->
+
+![npm](https://img.shields.io/npm/v/deepmergefn)
+[![Build Status](https://travis-ci.org/jesusgm/deepmergefn.svg?branch=master)](https://travis-ci.org/jesusgm/deepmergefn)
+[![Number of Downloads](https://img.shields.io/npm/dm/deepmergefn.svg)](https://www.npmjs.com/package/deepmergefn)
+
+<!-- [END badges] -->
 
 Mixes two data objects in depth
 
