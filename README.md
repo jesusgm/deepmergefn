@@ -19,7 +19,7 @@ Install package executing these command:
 ## Usage
 
 ```javascript
-const deepMerge = require("deepmergejs");
+const deepMerge = require("deepmergefn");
 
 const object1 = {
   name: "John",
