@@ -10,7 +10,7 @@
 
 Mixes two data objects in depth
 
-## Instalation
+## Installation
 
 Install package executing these command:
 
