@@ -1,6 +1,6 @@
 {
   "name": "deepmergefn",
-  "version": "1.0.8",
+  "version": "1.1.0",
   "description": "Deep merge objects width diferent atributtes",
   "main": "index.js",
   "scripts": {
